@@ -4,14 +4,13 @@
 - 📚 Software Engineering Student at UEPA since January 2023
 - 💻 Currently, I am learning web development through some small projects using PHP, HTML, CSS, JAVASCRIPT and DJANGO framework
 
-#### 📊 GitHub Statistics
+#### 📊 GitHub Stats
 
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ihluscao&show_icons=true&count_private=true&hide_border=true)](https://github.com/ihluscao)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ihluscao&show_icons=true&theme=transparent)
 
 #### 🚀 Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihluscao)](https://github.com/ihluscao)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihluscao&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 #### 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2324292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ihluscao)
